@@ -1,0 +1,121 @@
+/* https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-55-Regular/AlibabaPuHuiTi-3-55-Regular.ttf */
+@font-face {
+    font-family: "AlibabaPuHuiTi-3-35-Thin";
+    font-display: swap;
+    src:    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-35-Thin/AlibabaPuHuiTi-3-35-Thin.eot");
+    src:    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-35-Thin/AlibabaPuHuiTi-3-35-Thin.otf") format("opentype"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-35-Thin/AlibabaPuHuiTi-3-35-Thin.ttf") format("truetype"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-35-Thin/AlibabaPuHuiTi-3-35-Thin.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-35-Thin/AlibabaPuHuiTi-3-35-Thin.woff2") format("woff2");
+}
+@font-face {
+    font-family: "AlibabaPuHuiTi-3-45-Light";
+    font-display: swap;
+    src:    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-45-Light/AlibabaPuHuiTi-3-45-Light.eot");
+    src:    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-45-Light/AlibabaPuHuiTi-3-45-Light.otf") format("opentype"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-45-Light/AlibabaPuHuiTi-3-45-Light.ttf") format("truetype"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-45-Light/AlibabaPuHuiTi-3-45-Light.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-45-Light/AlibabaPuHuiTi-3-45-Light.woff2") format("woff2");
+}
+@font-face {
+    font-family: "AlibabaPuHuiTi-3-55-Regular";
+    font-display: swap;
+    src:    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-55-Regular/AlibabaPuHuiTi-3-55-Regular.eot");
+    src:    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-55-Regular/AlibabaPuHuiTi-3-55-Regular.otf") format("opentype"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-55-Regular/AlibabaPuHuiTi-3-55-Regular.ttf") format("truetype"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-55-Regular/AlibabaPuHuiTi-3-55-Regular.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-55-Regular/AlibabaPuHuiTi-3-55-Regular.woff2") format("woff2");
+}
+@font-face {
+    font-family: "AlibabaPuHuiTi-3-55-RegularL3";
+    font-display: swap;
+    src:    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-55-RegularL3/AlibabaPuHuiTi-3-55-RegularL3.eot");
+    src:    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-55-RegularL3/AlibabaPuHuiTi-3-55-RegularL3.otf") format("opentype"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-55-RegularL3/AlibabaPuHuiTi-3-55-RegularL3.ttf") format("truetype"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-55-RegularL3/AlibabaPuHuiTi-3-55-RegularL3.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-55-RegularL3/AlibabaPuHuiTi-3-55-RegularL3.woff2") format("woff2");
+}
+@font-face {
+    font-family: "AlibabaPuHuiTi-3-65-Medium";
+    font-display: swap;
+    src:    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-65-Medium/AlibabaPuHuiTi-3-65-Medium.eot");
+    src:    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-65-Medium/AlibabaPuHuiTi-3-65-Medium.otf") format("opentype"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-65-Medium/AlibabaPuHuiTi-3-65-Medium.ttf") format("truetype"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-65-Medium/AlibabaPuHuiTi-3-65-Medium.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-65-Medium/AlibabaPuHuiTi-3-65-Medium.woff2") format("woff2");
+}
+@font-face {
+    font-family: "AlibabaPuHuiTi-3-75-SemiBold";
+    font-display: swap;
+    src:    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-75-SemiBold/AlibabaPuHuiTi-3-75-SemiBold.eot");
+    src:    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-75-SemiBold/AlibabaPuHuiTi-3-75-SemiBold.otf") format("opentype"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-75-SemiBold/AlibabaPuHuiTi-3-75-SemiBold.ttf") format("truetype"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-75-SemiBold/AlibabaPuHuiTi-3-75-SemiBold.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-75-SemiBold/AlibabaPuHuiTi-3-75-SemiBold.woff2") format("woff2");
+}
+@font-face {
+    font-family: "AlibabaPuHuiTi-3-85-Bold";
+    font-display: swap;
+    src:    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-85-Bold/AlibabaPuHuiTi-3-85-Bold.eot");
+    src:    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-85-Bold/AlibabaPuHuiTi-3-85-Bold.otf") format("opentype"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-85-Bold/AlibabaPuHuiTi-3-85-Bold.ttf") format("truetype"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-85-Bold/AlibabaPuHuiTi-3-85-Bold.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-85-Bold/AlibabaPuHuiTi-3-85-Bold.woff2") format("woff2");
+}
+@font-face {
+    font-family: "AlibabaPuHuiTi-3-95-ExtraBold";
+    font-display: swap;
+    src:    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-95-ExtraBold/AlibabaPuHuiTi-3-95-ExtraBold.eot");
+    src:    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-95-ExtraBold/AlibabaPuHuiTi-3-95-ExtraBold.otf") format("opentype"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-95-ExtraBold/AlibabaPuHuiTi-3-95-ExtraBold.ttf") format("truetype"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-95-ExtraBold/AlibabaPuHuiTi-3-95-ExtraBold.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-95-ExtraBold/AlibabaPuHuiTi-3-95-ExtraBold.woff2") format("woff2");
+}
+@font-face {
+    font-family: "AlibabaPuHuiTi-3-105-Heavy";
+    font-display: swap;
+    src:    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-105-Heavy/AlibabaPuHuiTi-3-105-Heavy.eot");
+    src:    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-105-Heavy/AlibabaPuHuiTi-3-105-Heavy.otf") format("opentype"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-105-Heavy/AlibabaPuHuiTi-3-105-Heavy.ttf") format("truetype"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-105-Heavy/AlibabaPuHuiTi-3-105-Heavy.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-105-Heavy/AlibabaPuHuiTi-3-105-Heavy.woff2") format("woff2");
+}
+@font-face {
+    font-family: "AlibabaPuHuiTi-3-115-Black";
+    font-display: swap;
+    src:    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-115-Black/AlibabaPuHuiTi-3-115-Black.eot");
+    src:    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-115-Black/AlibabaPuHuiTi-3-115-Black.otf") format("opentype"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-115-Black/AlibabaPuHuiTi-3-115-Black.ttf") format("truetype"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-115-Black/AlibabaPuHuiTi-3-115-Black.woff") format("woff"),
+    url("https://cdn.jsdelivr.net/gh/hongzhi725/AlibabaPuHuiTi@master/font/AlibabaPuHuiTi/AlibabaPuHuiTi-3-115-Black/AlibabaPuHuiTi-3-115-Black.woff2") format("woff2");
+}
+.AlibabaPuHuiTi-3-35-Thin{
+    font-family: 'AlibabaPuHuiTi-3-35-Thin';
+}
+.AlibabaPuHuiTi-3-45-Light{
+    font-family: 'AlibabaPuHuiTi-3-45-Light';
+}
+.AlibabaPuHuiTi-3-55-Regular{
+    font-family: 'AlibabaPuHuiTi-3-55-Regular';
+}
+.AlibabaPuHuiTi-3-55-RegularL3{
+    font-family: 'AlibabaPuHuiTi-3-55-RegularL3';
+}
+.AlibabaPuHuiTi-3-65-Medium{
+    font-family: 'AlibabaPuHuiTi-3-65-Medium';
+}
+.AlibabaPuHuiTi-3-75-SemiBold{
+    font-family: 'AlibabaPuHuiTi-3-75-SemiBold';
+}
+.AlibabaPuHuiTi-3-85-Bold{
+    font-family: 'AlibabaPuHuiTi-3-85-Bold';
+}
+.AlibabaPuHuiTi-3-95-ExtraBold{
+    font-family: 'AlibabaPuHuiTi-3-95-ExtraBold';
+}
+.AlibabaPuHuiTi-3-105-Heavy{
+    font-family: 'AlibabaPuHuiTi-3-105-Heavy';
+}
+.AlibabaPuHuiTi-3-115-Black{
+    font-family: 'AlibabaPuHuiTi-3-115-Black';
+}
