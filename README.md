@@ -1,12 +1,13 @@
-# 阿里巴巴普惠体3.0
+# AlibabaPuHuiTi 3.0 and AlibabaSans
 
 初衷：方便大家使用阿里巴巴普惠体字体，开源好看的字体，感谢阿里的贡献~
+For everyone can use the free & beautiful font. Thanks for Alibaba.
 
-# 使用方法
+# Usage
 
-请根据项目内「index.css」文件指引使用。
+According to「index.css」
 
-# 资源传送门
+# Resource Door
 
-- 阿里巴巴普惠体官网：[传送门](https://www.alibabafonts.com/#/home)
-- My Blog: [传送门]([hongzhi](https://hongzhi725.github.io/))
+- Website for Alibaba：[Door](https://www.alibabafonts.com/#/home)
+- My Blog: [Door]([hongzhi](https://hongzhi725.github.io/))
