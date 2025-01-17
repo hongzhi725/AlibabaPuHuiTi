@@ -9,4 +9,4 @@ According to「index.css」
 # Resource Door
 
 - Website for Alibaba：[Door](https://www.alibabafonts.com/#/home)
-- My Blog: [Door](https://hongzhi725.github.io/))
+- My Blog: [Door](https://hongzhi725.github.io/)
